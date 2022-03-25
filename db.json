@@ -1,0 +1,20 @@
+
+ {
+  "customers": [
+    {
+        "customer_code": "2345678954",
+        "customer_name": "Matthias Weber",
+        "email": "matthias@comdocks.com"
+    },
+    {
+        "customer_code": "2345678955",
+        "customer_name": "Adna Schmidt",
+        "email": "adna.schmidt@getnuvo.com"
+    },
+    {
+        "customer_code": "2345678956",
+        "customer_name": "Harald Rosenberg",
+        "email": "harald@columatch.ai"
+    }
+]
+}
