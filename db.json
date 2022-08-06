@@ -1,20 +1,62 @@
-
- {
-  "customers": [
-    {
-        "customer_code": "2345678954",
-        "customer_name": "Matthias Weber",
-        "email": "matthias@comdocks.com"
-    },
-    {
-        "customer_code": "2345678955",
-        "customer_name": "Adna Schmidt",
-        "email": "adna.schmidt@getnuvo.com"
-    },
-    {
-        "customer_code": "2345678956",
-        "customer_name": "Harald Rosenberg",
-        "email": "harald@columatch.ai"
-    }
-]
+{
+	"customers": [
+		{
+			"customer_code": "2345678954",
+			"customer_name": "Matthias Weber",
+			"email": "matthias@comdocks.com"
+		},
+		{
+			"customer_code": "2345678955",
+			"customer_name": "Adna Schmidt",
+			"email": "adna.schmidt@getnuvo.com"
+		},
+		{
+			"customer_code": "2345678956",
+			"customer_name": "Harald Rosenberg",
+			"email": "harald@columatch.ai"
+		}
+	],
+	"data_model": {
+		"case_1": [
+			{
+				"key": "name",
+				"label": "Name",
+				"columnType": "string",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+			},
+			{
+				"key": "email",
+				"label": "Email",
+				"columnType": "string",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+			},
+			{
+				"key": "phone",
+				"label": "Phone",
+				"columnType": "string",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+			},
+			{
+				"key": "date",
+				"label": "Date",
+				"columnType": "string",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+			}
+		],
+		"case_2": {
+			"first_name": "string",
+			"last_name": "string",
+			"salary": "int",
+			"province": "category"
+		},
+		"case_3": {
+			"first_name": "developer",
+			"last_name": "getnuvo",
+			"salary": 12000,
+			"province": [
+				"CNX",
+				"HAM"
+			]
+		}
+	}
 }
