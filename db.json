@@ -16,6 +16,92 @@
 			"email": "harald@columatch.ai"
 		}
 	],
+	"cars": [
+	{
+      "status":"available",
+      "subFleet":"company",
+      "location":"New York",
+      "licensePlate":"XYZ123",
+      "VIN":"1234567890ABCDEF",
+      "make":"Toyota",
+      "model":"Corolla",
+      "firstRegistration":"01/01/2010",
+      "pool":"North America",
+      "insuranceBroker":"John Doe Insurance Brokers",
+      "insuranceCompanyName":"Acme Insurance Co.",
+      "deductibleTK":500
+   },
+   {
+      "status":"unavailable",
+      "subFleet":"personal",
+      "location":"Los Angeles",
+      "licensePlate":"ABC456",
+      "VIN":"FEDCBA0987654321",
+      "make":"Ford",
+      "model":"Fiesta",
+      "firstRegistration":"01/01/2011",
+      "pool":"North America",
+      "insuranceBroker":"Jane Doe Insurance Brokers",
+      "insuranceCompanyName":"Acme Insurance Co.",
+      "deductibleTK":1000
+   },
+   {
+      "status":"available",
+      "subFleet":"company",
+      "location":"Chicago",
+      "licensePlate":"DEF789",
+      "VIN":"2468013579BDFACE",
+      "make":"Honda",
+      "model":"Accord",
+      "firstRegistration":"01/01/2012",
+      "pool":"North America",
+      "insuranceBroker":"John Smith Insurance Brokers",
+      "insuranceCompanyName":"Acme Insurance Co.",
+      "deductibleTK":500
+   },
+   {
+      "status":"unavailable",
+      "subFleet":"personal",
+      "location":"Houston",
+      "licensePlate":"GHI246",
+      "VIN":"ACEBDF0135792468",
+      "make":"Toyota",
+      "model":"Camry",
+      "firstRegistration":"01/01/2013",
+      "pool":"North America",
+      "insuranceBroker":"Jane Smith Insurance Brokers",
+      "insuranceCompanyName":"Acme Insurance Co.",
+      "deductibleTK":1000
+   },
+   {
+      "status":"available",
+      "subFleet":"company",
+      "location":"Philadelphia",
+      "licensePlate":"JKL369",
+      "VIN":"13579ACEBFEDC24",
+      "make":"Ford",
+      "model":"Focus",
+      "firstRegistration":"01/01/2014",
+      "pool":"North America",
+      "insuranceBroker":"John Williams Insurance Brokers",
+      "insuranceCompanyName":"Acme Insurance Co.",
+      "deductibleTK":500
+   },
+   {
+      "status":"unavailable",
+      "subFleet":"personal",
+      "location":"Phoenix",
+      "licensePlate":"MNO159",
+      "VIN":"2468024680ABCDEF",
+      "make":"Honda",
+      "model":"Civic",
+      "firstRegistration":"01/01/2015",
+      "pool":"North America",
+      "insuranceBroker":"Jane Williams Insurance Brokers",
+      "insuranceCompanyName":"Acme Insurance Co.",
+      "deductibleTK":1000
+   }
+	],
 	"data_model": {
 		"case_1": [
 			{
