@@ -20,16 +20,16 @@
 		{
 	      "status":"available",
 	      "subFleet":"company",
-	      "location":"New York",
+	      "location":"Hannover",
 	      "licensePlate":"D-K 1182",
-	      "VIN":"1234567890ABCDEF",
+	      "VIN":"TMBJH7NP5P7021875",
 	      "make":"Toyota",
-	      "model":"Corolla",
-	      "firstRegistration":"01/01/2010",
+	      "model":"Superb",
+	      "firstRegistration":"15.11.2022",
 	      "pool":"North America",
 	      "insuranceBroker":"John Doe Insurance Brokers",
-	      "insuranceCompanyName":"Acme Insurance Co.",
-	      "deductibleTK":500
+	      "insuranceCompanyName":"Dialog",
+	      "deductibleTK":1000
 	   },
 	   {
 	      "status":"unavailable",
@@ -42,13 +42,13 @@
 	      "firstRegistration":"01/01/2011",
 	      "pool":"North America",
 	      "insuranceBroker":"Jane Doe Insurance Brokers",
-	      "insuranceCompanyName":"Acme Insurance Co.",
+	      "insuranceCompanyName":"Dialog",
 	      "deductibleTK":1000
 	   },
 	   {
 	      "status":"available",
 	      "subFleet":"company",
-	      "location":"Chicago",
+	      "location":"Köln / Bonn",
 	      "licensePlate":"D-K 2326",
 	      "VIN":"2468013579BDFACE",
 	      "make":"Honda",
@@ -56,13 +56,13 @@
 	      "firstRegistration":"01/01/2012",
 	      "pool":"North America",
 	      "insuranceBroker":"John Smith Insurance Brokers",
-	      "insuranceCompanyName":"Acme Insurance Co.",
-	      "deductibleTK":500
+	      "insuranceCompanyName":"Dialog",
+	      "deductibleTK":1000
 	   },
 	   {
 	      "status":"unavailable",
 	      "subFleet":"personal",
-	      "location":"Houston",
+	      "location":"Frankfurt",
 	      "licensePlate":"D-K 1124",
 	      "VIN":"ACEBDF0135792468",
 	      "make":"Toyota",
@@ -70,13 +70,13 @@
 	      "firstRegistration":"01/01/2013",
 	      "pool":"North America",
 	      "insuranceBroker":"Jane Smith Insurance Brokers",
-	      "insuranceCompanyName":"Acme Insurance Co.",
+	      "insuranceCompanyName":"Dialog",
 	      "deductibleTK":1000
 	   },
 	   {
 	      "status":"available",
 	      "subFleet":"company",
-	      "location":"Philadelphia",
+	      "location":"Düsseldorf",
 	      "licensePlate":"D-K 1286",
 	      "VIN":"13579ACEBFEDC24",
 	      "make":"Ford",
@@ -90,7 +90,7 @@
 	   {
 	      "status":"unavailable",
 	      "subFleet":"personal",
-	      "location":"Phoenix",
+	      "location":"Hannover",
 	      "licensePlate":"D-K 371",
 	      "VIN":"2468024680ABCDEF",
 	      "make":"Honda",
@@ -98,7 +98,7 @@
 	      "firstRegistration":"01/01/2015",
 	      "pool":"North America",
 	      "insuranceBroker":"Jane Williams Insurance Brokers",
-	      "insuranceCompanyName":"Acme Insurance Co.",
+	      "insuranceCompanyName":"Dialog",
 	      "deductibleTK":1000
 	   }
 	],
