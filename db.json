@@ -17,34 +17,7 @@
 		}
 	],
 	"cars": [
-	   {
-	      "status":"unavailable",
-	      "subFleet":"personal",
-	      "location":"Hannover",
-	      "licensePlate":"D-K 371",
-	      "VIN":"2468024680ABCDEF",
-	      "make":"Opel",
-	      "model":"Corsa",
-	      "firstRegistration":"15.11.2022",
-	      "pool":"North America",
-	      "insuranceBroker":"Jane Williams Insurance Brokers",
-	      "insuranceCompanyName":"Dialog",
-	      "deductibleTK":1000
-	   },
-	   {
-		"status":"available",
-		"subFleet":"company",
-		"location":"Hannover",
-		"licensePlate":"D-K 1182",
-		"VIN":"TMBJH7NP5P7021875",
-		"make":"Toyota",
-		"model":"Superb",
-		"firstRegistration":"15.11.2022",
-		"pool":"North America",
-		"insuranceBroker":"John Doe Insurance Brokers",
-		"insuranceCompanyName":"Dialog",
-		"deductibleTK":1000
-	     },
+	
 	     {
 		"status":"unavailable",
 		"subFleet":"personal",
