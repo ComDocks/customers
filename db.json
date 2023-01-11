@@ -24,21 +24,34 @@
 		"licensePlate":"D-K 2326",
 		"VIN":"WF0PXXGCHPNB00328",
 		"make":"Ford",
-		"model":"Focus",
-		"firstRegistration":"15.11.2022",
-		"pool":"North America",
-		"insuranceBroker":"John Smith Insurance Brokers",
-		"insuranceCompanyName":"Dialog",
-		"deductibleTK":1000
+		"model":"Focus"
 	      },
-		{
-		"location":"Los Angeles",
+	      {
+		"status":"available",
+		"subFleet":"company",
+		"location":"Köln / Bonn",
+		"licensePlate":"D-K 2326",
+		"VIN":"WF0PXXGCHPNB00328",
+		"make":"Ford",
+		"model":"Focus"
 	      },
-				{
-		"location":"Berlin",
+	      {
+		"status":"available",
+		"subFleet":"company",
+		"location":"Köln / Bonn",
+		"licensePlate":"D-K 2326",
+		"VIN":"WF0PXXGCHPNB00328",
+		"make":"Ford",
+		"model":"Focus"
 	      },
-				{
-		"location":"Hamburg",
+	      {
+		"status":"available",
+		"subFleet":"company",
+		"location":"Köln / Bonn",
+		"licensePlate":"D-K 2326",
+		"VIN":"WF0PXXGCHPNB00328",
+		"make":"Ford",
+		"model":"Focus"
 	      },
 	      {
 		"status":"unavailable",
@@ -48,11 +61,7 @@
 		"VIN":"ACEBDF0135792468",
 		"make":"Toyota",
 		"model":"Camry",
-		"firstRegistration":"01/01/2013",
-		"pool":"North America",
-		"insuranceBroker":"Jane Smith Insurance Brokers",
-		"insuranceCompanyName":"Dialog",
-		"deductibleTK":1000
+
 	       },
 	   {
 	      "status":"available",
@@ -62,11 +71,7 @@
 	      "VIN":"TMBJH7NP5P7021875",
 	      "make":"Toyota",
 	      "model":"Superb",
-	      "firstRegistration":"15.11.2022",
-	      "pool":"North America",
-	      "insuranceBroker":"John Doe Insurance Brokers",
-	      "insuranceCompanyName":"Dialog",
-	      "deductibleTK":1000
+
 	   },
 	   {
 	      "status":"unavailable",
@@ -76,11 +81,7 @@
 	      "VIN":"WF0XXGCHPNB00301",
 	      "make":"Ford",
 	      "model":"Fiesta",
-	      "firstRegistration":"15.11.2022",
-	      "pool":"North America",
-	      "insuranceBroker":"Jane Doe Insurance Brokers",
-	      "insuranceCompanyName":"Dialog",
-	      "deductibleTK":1000
+
 	   },
 	   {
 	      "status":"available",
@@ -90,11 +91,7 @@
 	      "VIN":"WF0PXXGCHPNB00328",
 	      "make":"Ford",
 	      "model":"Focus",
-	      "firstRegistration":"15.11.2022",
-	      "pool":"North America",
-	      "insuranceBroker":"John Smith Insurance Brokers",
-	      "insuranceCompanyName":"Dialog",
-	      "deductibleTK":1000
+
 	   },
 	   {
 	      "status":"unavailable",
@@ -104,11 +101,7 @@
 	      "VIN":"ACEBDF0135792468",
 	      "make":"Toyota",
 	      "model":"Camry",
-	      "firstRegistration":"01/01/2013",
-	      "pool":"North America",
-	      "insuranceBroker":"Jane Smith Insurance Brokers",
-	      "insuranceCompanyName":"Dialog",
-	      "deductibleTK":1000
+
 	   },
 	   {
 	      "status":"available",
@@ -118,11 +111,7 @@
 	      "VIN":"TMBJH7NP2P7022028",
 	      "make":"Skoda",
 	      "model":"Superb",
-	      "firstRegistration":"28.11.2022",
-	      "pool":"North America",
-	      "insuranceBroker":"John Williams Insurance Brokers",
-	      "insuranceCompanyName":"Acme Insurance Co.",
-	      "deductibleTK":500
+
 	   },
 	   {
 	      "status":"unavailable",
@@ -132,11 +121,7 @@
 	      "VIN":"2468024680ABCDEF",
 	      "make":"Opel",
 	      "model":"Corsa",
-	      "firstRegistration":"15.11.2022",
-	      "pool":"North America",
-	      "insuranceBroker":"Jane Williams Insurance Brokers",
-	      "insuranceCompanyName":"Dialog",
-	      "deductibleTK":1000
+
 	   },
 	   {
 		"status":"available",
@@ -146,11 +131,7 @@
 		"VIN":"TMBJH7NP5P7021875",
 		"make":"Toyota",
 		"model":"Superb",
-		"firstRegistration":"15.11.2022",
-		"pool":"North America",
-		"insuranceBroker":"John Doe Insurance Brokers",
-		"insuranceCompanyName":"Dialog",
-		"deductibleTK":1000
+
 	     },
 	     {
 		"status":"unavailable",
@@ -160,11 +141,7 @@
 		"VIN":"WF0XXGCHPNB00301",
 		"make":"Ford",
 		"model":"Fiesta",
-		"firstRegistration":"15.11.2022",
-		"pool":"North America",
-		"insuranceBroker":"Jane Doe Insurance Brokers",
-		"insuranceCompanyName":"Dialog",
-		"deductibleTK":1000
+
 	      },
 	      {
 		"status":"available",
@@ -174,11 +151,7 @@
 		"VIN":"WF0PXXGCHPNB00328",
 		"make":"Ford",
 		"model":"Focus",
-		"firstRegistration":"15.11.2022",
-		"pool":"North America",
-		"insuranceBroker":"John Smith Insurance Brokers",
-		"insuranceCompanyName":"Dialog",
-		"deductibleTK":1000
+
 	      },
 	      {
 		"status":"unavailable",
@@ -188,11 +161,7 @@
 		"VIN":"ACEBDF0135792468",
 		"make":"Toyota",
 		"model":"Camry",
-		"firstRegistration":"01/01/2013",
-		"pool":"North America",
-		"insuranceBroker":"Jane Smith Insurance Brokers",
-		"insuranceCompanyName":"Dialog",
-		"deductibleTK":1000
+
 	       },
 		{
 	      "status":"available",
@@ -202,11 +171,7 @@
 	      "VIN":"TMBJH7NP5P7021875",
 	      "make":"Toyota",
 	      "model":"Superb",
-	      "firstRegistration":"15.11.2022",
-	      "pool":"North America",
-	      "insuranceBroker":"John Doe Insurance Brokers",
-	      "insuranceCompanyName":"Dialog",
-	      "deductibleTK":1000
+
 	   },
 	   {
 	      "status":"unavailable",
@@ -216,11 +181,7 @@
 	      "VIN":"WF0XXGCHPNB00301",
 	      "make":"Ford",
 	      "model":"Fiesta",
-	      "firstRegistration":"15.11.2022",
-	      "pool":"North America",
-	      "insuranceBroker":"Jane Doe Insurance Brokers",
-	      "insuranceCompanyName":"Dialog",
-	      "deductibleTK":1000
+
 	   },
 	   {
 	      "status":"available",
@@ -230,11 +191,7 @@
 	      "VIN":"WF0PXXGCHPNB00328",
 	      "make":"Ford",
 	      "model":"Focus",
-	      "firstRegistration":"15.11.2022",
-	      "pool":"North America",
-	      "insuranceBroker":"John Smith Insurance Brokers",
-	      "insuranceCompanyName":"Dialog",
-	      "deductibleTK":1000
+
 	   },
 	   {
 	      "status":"unavailable",
@@ -244,11 +201,7 @@
 	      "VIN":"ACEBDF0135792468",
 	      "make":"Toyota",
 	      "model":"Camry",
-	      "firstRegistration":"01/01/2013",
-	      "pool":"North America",
-	      "insuranceBroker":"Jane Smith Insurance Brokers",
-	      "insuranceCompanyName":"Dialog",
-	      "deductibleTK":1000
+
 	   },
 	   {
 	      "status":"available",
@@ -258,11 +211,7 @@
 	      "VIN":"TMBJH7NP2P7022028",
 	      "make":"Skoda",
 	      "model":"Superb",
-	      "firstRegistration":"28.11.2022",
-	      "pool":"North America",
-	      "insuranceBroker":"John Williams Insurance Brokers",
-	      "insuranceCompanyName":"Acme Insurance Co.",
-	      "deductibleTK":500
+
 	   },
 	   {
 	      "status":"unavailable",
@@ -272,11 +221,7 @@
 	      "VIN":"2468024680ABCDEF",
 	      "make":"Opel",
 	      "model":"Corsa",
-	      "firstRegistration":"15.11.2022",
-	      "pool":"North America",
-	      "insuranceBroker":"Jane Williams Insurance Brokers",
-	      "insuranceCompanyName":"Dialog",
-	      "deductibleTK":1000
+
 	   },
 	   {
 		"status":"available",
@@ -286,11 +231,7 @@
 		"VIN":"TMBJH7NP5P7021875",
 		"make":"Toyota",
 		"model":"Superb",
-		"firstRegistration":"15.11.2022",
-		"pool":"North America",
-		"insuranceBroker":"John Doe Insurance Brokers",
-		"insuranceCompanyName":"Dialog",
-		"deductibleTK":1000
+
 	     },
 	     {
 		"status":"unavailable",
@@ -300,11 +241,7 @@
 		"VIN":"WF0XXGCHPNB00301",
 		"make":"Ford",
 		"model":"Fiesta",
-		"firstRegistration":"15.11.2022",
-		"pool":"North America",
-		"insuranceBroker":"Jane Doe Insurance Brokers",
-		"insuranceCompanyName":"Dialog",
-		"deductibleTK":1000
+
 	      },
 	      {
 		"status":"available",
@@ -314,11 +251,7 @@
 		"VIN":"WF0PXXGCHPNB00328",
 		"make":"Ford",
 		"model":"Focus",
-		"firstRegistration":"15.11.2022",
-		"pool":"North America",
-		"insuranceBroker":"John Smith Insurance Brokers",
-		"insuranceCompanyName":"Dialog",
-		"deductibleTK":1000
+
 	      },
 
 	],
