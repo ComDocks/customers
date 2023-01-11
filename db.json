@@ -32,18 +32,7 @@
 		"deductibleTK":1000
 	      },
 		{
-		"status":"",
-		"subFleet":"",
 		"location":"Los Angeles",
-		"licensePlate":"",
-		"VIN":"",
-		"make":"",
-		"model":"",
-		"firstRegistration":"",
-		"pool":"",
-		"insuranceBroker":"",
-		"insuranceCompanyName":"",
-		"deductibleTK":""
 	      },
 				{
 		"location":"Berlin",
