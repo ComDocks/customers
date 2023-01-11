@@ -17,21 +17,6 @@
 		}
 	],
 	"cars": [
-	
-	     {
-		"status":"unavailable",
-		"subFleet":"personal",
-		"location":"Los Angeles",
-		"licensePlate":"D-K 2317",
-		"VIN":"WF0XXGCHPNB00301",
-		"make":"Ford",
-		"model":"Fiesta",
-		"firstRegistration":"15.11.2022",
-		"pool":"North America",
-		"insuranceBroker":"Jane Doe Insurance Brokers",
-		"insuranceCompanyName":"Dialog",
-		"deductibleTK":1000
-	      },
 	      {
 		"status":"available",
 		"subFleet":"company",
