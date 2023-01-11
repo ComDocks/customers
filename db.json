@@ -46,32 +46,10 @@
 		"deductibleTK":""
 	      },
 				{
-		"status":"",
-		"subFleet":"",
 		"location":"Berlin",
-		"licensePlate":"",
-		"VIN":"",
-		"make":"",
-		"model":"",
-		"firstRegistration":"",
-		"pool":"",
-		"insuranceBroker":"",
-		"insuranceCompanyName":"",
-		"deductibleTK":""
 	      },
 				{
-		"status":"",
-		"subFleet":"",
 		"location":"Hamburg",
-		"licensePlate":"",
-		"VIN":"",
-		"make":"",
-		"model":"",
-		"firstRegistration":"",
-		"pool":"",
-		"insuranceBroker":"",
-		"insuranceCompanyName":"",
-		"deductibleTK":""
 	      },
 	      {
 		"status":"unavailable",
