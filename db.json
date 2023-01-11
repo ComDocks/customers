@@ -60,7 +60,7 @@
 		"licensePlate":"D-K 1124",
 		"VIN":"ACEBDF0135792468",
 		"make":"Toyota",
-		"model":"Camry",
+		"model":"Camry"
 
 	       },
 	   {
@@ -70,7 +70,7 @@
 	      "licensePlate":"D-K 1182",
 	      "VIN":"TMBJH7NP5P7021875",
 	      "make":"Toyota",
-	      "model":"Superb",
+	      "model":"Superb"
 
 	   },
 	   {
@@ -80,7 +80,7 @@
 	      "licensePlate":"D-K 2317",
 	      "VIN":"WF0XXGCHPNB00301",
 	      "make":"Ford",
-	      "model":"Fiesta",
+	      "model":"Fiesta"
 
 	   },
 	   {
@@ -90,7 +90,7 @@
 	      "licensePlate":"D-K 2326",
 	      "VIN":"WF0PXXGCHPNB00328",
 	      "make":"Ford",
-	      "model":"Focus",
+	      "model":"Focus"
 
 	   },
 	   {
@@ -100,7 +100,7 @@
 	      "licensePlate":"D-K 1124",
 	      "VIN":"ACEBDF0135792468",
 	      "make":"Toyota",
-	      "model":"Camry",
+	      "model":"Camry"
 
 	   },
 	   {
@@ -110,7 +110,7 @@
 	      "licensePlate":"D-K 1286",
 	      "VIN":"TMBJH7NP2P7022028",
 	      "make":"Skoda",
-	      "model":"Superb",
+	      "model":"Superb"
 
 	   },
 	   {
@@ -120,7 +120,7 @@
 	      "licensePlate":"D-K 371",
 	      "VIN":"2468024680ABCDEF",
 	      "make":"Opel",
-	      "model":"Corsa",
+	      "model":"Corsa"
 
 	   },
 	   {
@@ -130,7 +130,7 @@
 		"licensePlate":"D-K 1182",
 		"VIN":"TMBJH7NP5P7021875",
 		"make":"Toyota",
-		"model":"Superb",
+		"model":"Superb"
 
 	     },
 	     {
@@ -140,7 +140,7 @@
 		"licensePlate":"D-K 2317",
 		"VIN":"WF0XXGCHPNB00301",
 		"make":"Ford",
-		"model":"Fiesta",
+		"model":"Fiesta"
 
 	      },
 	      {
@@ -150,7 +150,7 @@
 		"licensePlate":"D-K 2326",
 		"VIN":"WF0PXXGCHPNB00328",
 		"make":"Ford",
-		"model":"Focus",
+		"model":"Focus"
 
 	      },
 	      {
@@ -160,7 +160,7 @@
 		"licensePlate":"D-K 1124",
 		"VIN":"ACEBDF0135792468",
 		"make":"Toyota",
-		"model":"Camry",
+		"model":"Camry"
 
 	       },
 		{
@@ -170,7 +170,7 @@
 	      "licensePlate":"D-K 1182",
 	      "VIN":"TMBJH7NP5P7021875",
 	      "make":"Toyota",
-	      "model":"Superb",
+	      "model":"Superb"
 
 	   },
 	   {
@@ -180,7 +180,7 @@
 	      "licensePlate":"D-K 2317",
 	      "VIN":"WF0XXGCHPNB00301",
 	      "make":"Ford",
-	      "model":"Fiesta",
+	      "model":"Fiesta"
 
 	   },
 	   {
@@ -190,7 +190,7 @@
 	      "licensePlate":"D-K 2326",
 	      "VIN":"WF0PXXGCHPNB00328",
 	      "make":"Ford",
-	      "model":"Focus",
+	      "model":"Focus"
 
 	   },
 	   {
@@ -200,7 +200,7 @@
 	      "licensePlate":"D-K 1124",
 	      "VIN":"ACEBDF0135792468",
 	      "make":"Toyota",
-	      "model":"Camry",
+	      "model":"Camry"
 
 	   },
 	   {
@@ -210,7 +210,7 @@
 	      "licensePlate":"D-K 1286",
 	      "VIN":"TMBJH7NP2P7022028",
 	      "make":"Skoda",
-	      "model":"Superb",
+	      "model":"Superb"
 
 	   },
 	   {
@@ -220,7 +220,7 @@
 	      "licensePlate":"D-K 371",
 	      "VIN":"2468024680ABCDEF",
 	      "make":"Opel",
-	      "model":"Corsa",
+	      "model":"Corsa"
 
 	   },
 	   {
@@ -230,7 +230,7 @@
 		"licensePlate":"D-K 1182",
 		"VIN":"TMBJH7NP5P7021875",
 		"make":"Toyota",
-		"model":"Superb",
+		"model":"Superb"
 
 	     },
 	     {
@@ -240,7 +240,7 @@
 		"licensePlate":"D-K 2317",
 		"VIN":"WF0XXGCHPNB00301",
 		"make":"Ford",
-		"model":"Fiesta",
+		"model":"Fiesta"
 
 	      },
 	      {
@@ -250,9 +250,9 @@
 		"licensePlate":"D-K 2326",
 		"VIN":"WF0PXXGCHPNB00328",
 		"make":"Ford",
-		"model":"Focus",
+		"model":"Focus"
 
-	      },
+	      }
 
 	],
 	"data_model": {
