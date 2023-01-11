@@ -353,20 +353,7 @@
 		"insuranceCompanyName":"Dialog",
 		"deductibleTK":1000
 	      },
-	      {
-		"status":"unavailable",
-		"subFleet":"personal",
-		"location":"Frankfurt",
-		"licensePlate":"D-K 1124",
-		"VIN":"ACEBDF0135792468",
-		"make":"Toyota",
-		"model":"Camry",
-		"firstRegistration":"01/01/2013",
-		"pool":"North America",
-		"insuranceBroker":"Jane Smith Insurance Brokers",
-		"insuranceCompanyName":"Dialog",
-		"deductibleTK":1000
-	       }
+
 	],
 	"data_model": {
 		"case_1": [
