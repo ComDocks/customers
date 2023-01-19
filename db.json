@@ -26,6 +26,15 @@
 		"make":"Ford",
 		"model":"Focus"
 	      },
+		{
+		"status":"available",
+		"subFleet":"company",
+		"location":"Köln / Bonn",
+		"licensePlate":"D-K 2326",
+		"VIN":"WF0PXXGCHPNB00328",
+		"make":"Ford",
+		"model":"Focus"
+	      },
 	      {
 		"status":"available",
 		"subFleet":"company",
