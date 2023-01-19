@@ -19,7 +19,7 @@
 	"cars": [
 	      {
 		"status":"available",
-		"subFleet":"company",
+		"subFleet":false,
 		"location":"Köln / Bonn",
 		"licensePlate":"D-K 2326",
 		"VIN":"WF0PXXGCHPNB00328",
