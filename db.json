@@ -16,6 +16,38 @@
 			"email": "harald@columatch.ai"
 		}
 	],
+	"dropdown": [
+		{
+			"label": "5",
+			"value": "5",
+			"type": "string"
+		},
+		{
+			"label": "43",
+			"value": "43",
+			"type": "string"
+		},
+		{
+			"label": "65",
+			"value": "65",
+			"type": "string"
+		},
+		{
+			"label": "456",
+			"value": "5",
+			"type": "string"
+		},
+		{
+			"label": "676",
+			"value": "43",
+			"type": "string"
+		},
+		{
+			"label": "666",
+			"value": "666",
+			"type": "string"
+		}
+	],
 	"cars": [
 	      {
 		"status":"available",
