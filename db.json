@@ -18,33 +18,28 @@
 	],
 	"dropdown": [
 		{
-			"label": "5",
-			"value": "5",
+			"label": "849",
+			"value": "849",
 			"type": "string"
 		},
 		{
-			"label": "43",
-			"value": "43",
+			"label": "8349",
+			"value": "8349",
 			"type": "string"
 		},
 		{
-			"label": "65",
-			"value": "65",
+			"label": "438",
+			"value": "438",
 			"type": "string"
 		},
 		{
-			"label": "456",
-			"value": "5",
+			"label": "6464646",
+			"value": "6464646",
 			"type": "string"
 		},
 		{
-			"label": "676",
-			"value": "43",
-			"type": "string"
-		},
-		{
-			"label": "666",
-			"value": "666",
+			"label": "45",
+			"value": "45",
 			"type": "string"
 		}
 	],
