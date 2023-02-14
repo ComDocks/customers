@@ -118,8 +118,6 @@
    ],
    "cars":[
       {
-         "status":"available",
-         "subFleet":false,
          "location":"Köln / Bonn",
          "licensePlate":"D-K 2326",
          "VIN":"WF0PXXGCHPNB00328",
@@ -127,8 +125,6 @@
          "model":"Focus"
       },
       {
-         "status":"available",
-         "subFleet":"company",
          "location":"Köln / Bonn",
          "licensePlate":"D-K 2326",
          "VIN":"WF0PXXGCHPNB00328",
@@ -136,8 +132,6 @@
          "model":"Focus"
       },
       {
-         "status":"available",
-         "subFleet":"company",
          "location":"Köln / Bonn",
          "licensePlate":"D-K 2326",
          "VIN":"WF0PXXGCHPNB00328",
