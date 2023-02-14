@@ -289,8 +289,6 @@
          "model":"Focus"
       },
       {
-         "status":"unavailable",
-         "subFleet":"personal",
          "location":"Frankfurt",
          "licensePlate":"D-K 1124",
          "VIN":"ACEBDF0135792468",
@@ -298,8 +296,6 @@
          "model":"Camry"
       },
       {
-         "status":"available",
-         "subFleet":"company",
          "location":"Düsseldorf",
          "licensePlate":"D-K 1286",
          "VIN":"TMBJH7NP2P7022028",
@@ -307,8 +303,6 @@
          "model":"Superb"
       },
       {
-         "status":"unavailable",
-         "subFleet":"personal",
          "location":"Hannover",
          "licensePlate":"D-K 371",
          "VIN":"2468024680ABCDEF",
@@ -316,8 +310,6 @@
          "model":"Corsa"
       },
       {
-         "status":"available",
-         "subFleet":"company",
          "location":"Hannover",
          "licensePlate":"D-K 1182",
          "VIN":"TMBJH7NP5P7021875",
@@ -325,8 +317,6 @@
          "model":"Superb"
       },
       {
-         "status":"unavailable",
-         "subFleet":"personal",
          "location":"Los Angeles",
          "licensePlate":"D-K 2317",
          "VIN":"WF0XXGCHPNB00301",
@@ -334,8 +324,6 @@
          "model":"Fiesta"
       },
       {
-         "status":"available",
-         "subFleet":"company",
          "location":"Köln / Bonn",
          "licensePlate":"D-K 2326",
          "VIN":"WF0PXXGCHPNB00328",
