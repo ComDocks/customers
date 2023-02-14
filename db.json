@@ -1,357 +1,338 @@
 {
-   "customers":[
-      {
-         "customer_code":"2345678954",
-         "customer_name":"Matthias Weber",
-         "email":"matthias@comdocks.com"
-      },
-      {
-         "customer_code":"2345678955",
-         "customer_name":"Adna Schmidt",
-         "email":"adna.schmidt@getnuvo.com"
-      },
-      {
-         "customer_code":"2345678956",
-         "customer_name":"Harald Rosenberg",
-         "email":"harald@columatch.ai"
-      }
-   ],
-   "rib":[
-      {
-         "@odata.context":"ODataURL",
-         "value":[
-            {
-               "@odata.etag":"W/\"JzIwOzEzMTY3OTUwOTc5MjIzNjE3OTc1MTswMDsn\"",
-               "Address":"Alt Karst\u00e4dter Stra\u00dfe ",
-               "Application_Method":"Manuell",
-               "Balance_Due_LCY":128858.67,
-               "Balance_LCY":132811.71,
-               "Balance_at_Date_LCY":132811.71,
-               "Base_Calendar_Code":"",
-               "Blocked":" ",
-               "Fin_Charge_Terms_Code":"",
-               "Gen_Bus_Posting_Group":"INL",
-               "Global_Dimension_1_Filter":"",
-               "Global_Dimension_2_Filter":"",
-               "IBAN":"DE88100900001234567892",
-               "IC_Partner_Code":"",
-               "Language_Code":"",
-               "Last_Date_Modified":"2020-02-20",
-               "Last_Posting_Date":"2019-05-28",
-               "Lead_Time_Calculation":"",
-               "Location_Code":"",
-               "Name":"MUT Umwelttechnik f\u00fcr Bauabfall",
-               "Name_2":"",
-               "Net_Change_LCY":132811.71,
-               "No":"K00001"
-            },
-            {
-               "@odata.etag":"W/\"JzE5OzEwNzc4MTYzMjE0Mzc5NDYwNjMxOzAwOyc=\"",
-               "Address":"R\u00f6praredder 137 ",
-               "Application_Method":"Manuell",
-               "Balance_Due_LCY":40183.73,
-               "Balance_LCY":40183.73,
-               "Balance_at_Date_LCY":40183.73,
-               "Base_Calendar_Code":"",
-               "Currency_Filter":"",
-               "Date_Filter":"''..13.02.23",
-               "Fax_No":"",
-               "Fin_Charge_Terms_Code":"",
-               "Gen_Bus_Posting_Group":"INL",
-               "Global_Dimension_1_Filter":"",
-               "Global_Dimension_2_Filter":"",
-               "IBAN":"DE02200505501015871393",
-               "IC_Partner_Code":"",
-               "Language_Code":"",
-               "Last_Date_Modified":"2020-02-20",
-               "Last_Posting_Date":"2019-05-25",
-               "Lead_Time_Calculation":"",
-               "Location_Code":"",
-               "Name":"DIA Pumpenfabrik Hammelrath",
-               "Name_2":"",
-               "Net_Change_LCY":40183.73,
-               "No":"K00002"
-            }
-         ]
-      }
-   ],
-   "dropdown":[
-      {
-         "label":"849",
-         "value":"849",
-         "type":"string"
-      },
-      {
-         "label":"8349",
-         "value":"8349",
-         "type":"string"
-      },
-      {
-         "label":"438",
-         "value":"438",
-         "type":"string"
-      },
-      {
-         "label":"6464646",
-         "value":"6464646",
-         "type":"string"
-      },
-      {
-         "label":"45",
-         "value":"45",
-         "type":"string"
-      }
-   ],
-   "cars":[
-      {
-         "location":"Köln / Bonn",
-         "licensePlate":"D-K 2326",
-         "VIN":"WF0PXXGCHPNB00328",
-         "make":"Ford",
-         "model":"Focus"
-      },
-      {
-         "location":"Köln / Bonn",
-         "licensePlate":"D-K 2326",
-         "VIN":"WF0PXXGCHPNB00328",
-         "make":"Ford",
-         "model":"Focus"
-      },
-      {
-         "location":"Köln / Bonn",
-         "licensePlate":"D-K 2326",
-         "VIN":"WF0PXXGCHPNB00328",
-         "make":"Ford",
-         "model":"Focus"
-      },
-      {
-         "status":"available",
-         "subFleet":"company",
-         "location":"Köln / Bonn",
-         "licensePlate":"D-K 2326",
-         "VIN":"WF0PXXGCHPNB00328",
-         "make":"Ford",
-         "model":"Focus"
-      },
-      {
-         "status":"available",
-         "subFleet":"company",
-         "location":"Köln / Bonn",
-         "licensePlate":"D-K 2326",
-         "VIN":"WF0PXXGCHPNB00328",
-         "make":"Ford",
-         "model":"Focus"
-      },
-      {
-         "status":"unavailable",
-         "subFleet":"personal",
-         "location":"Frankfurt",
-         "licensePlate":"D-K 1124",
-         "VIN":"ACEBDF0135792468",
-         "make":"Toyota",
-         "model":"Camry"
-      },
-      {
-         "status":"available",
-         "subFleet":"company",
-         "location":"Hannover",
-         "licensePlate":"D-K 1182",
-         "VIN":"TMBJH7NP5P7021875",
-         "make":"Toyota",
-         "model":"Superb"
-      },
-      {
-         "status":"unavailable",
-         "subFleet":"personal",
-         "location":"Los Angeles",
-         "licensePlate":"D-K 2317",
-         "VIN":"WF0XXGCHPNB00301",
-         "make":"Ford",
-         "model":"Fiesta"
-      },
-      {
-         "status":"available",
-         "subFleet":"company",
-         "location":"Köln / Bonn",
-         "licensePlate":"D-K 2326",
-         "VIN":"WF0PXXGCHPNB00328",
-         "make":"Ford",
-         "model":"Focus"
-      },
-      {
-         "status":"unavailable",
-         "subFleet":"personal",
-         "location":"Frankfurt",
-         "licensePlate":"D-K 1124",
-         "VIN":"ACEBDF0135792468",
-         "make":"Toyota",
-         "model":"Camry"
-      },
-      {
-         "status":"available",
-         "subFleet":"company",
-         "location":"Düsseldorf",
-         "licensePlate":"D-K 1286",
-         "VIN":"TMBJH7NP2P7022028",
-         "make":"Skoda",
-         "model":"Superb"
-      },
-      {
-         "status":"unavailable",
-         "subFleet":"personal",
-         "location":"Hannover",
-         "licensePlate":"D-K 371",
-         "VIN":"2468024680ABCDEF",
-         "make":"Opel",
-         "model":"Corsa"
-      },
-      {
-         "status":"available",
-         "subFleet":"company",
-         "location":"Hannover",
-         "licensePlate":"D-K 1182",
-         "VIN":"TMBJH7NP5P7021875",
-         "make":"Toyota",
-         "model":"Superb"
-      },
-      {
-         "status":"unavailable",
-         "subFleet":"personal",
-         "location":"Los Angeles",
-         "licensePlate":"D-K 2317",
-         "VIN":"WF0XXGCHPNB00301",
-         "make":"Ford",
-         "model":"Fiesta"
-      },
-      {
-         "status":"available",
-         "subFleet":"company",
-         "location":"Köln / Bonn",
-         "licensePlate":"D-K 2326",
-         "VIN":"WF0PXXGCHPNB00328",
-         "make":"Ford",
-         "model":"Focus"
-      },
-      {
-         "status":"unavailable",
-         "subFleet":"personal",
-         "location":"Frankfurt",
-         "licensePlate":"D-K 1124",
-         "VIN":"ACEBDF0135792468",
-         "make":"Toyota",
-         "model":"Camry"
-      },
-      {
-         "status":"available",
-         "subFleet":"company",
-         "location":"Hannover",
-         "licensePlate":"D-K 1182",
-         "VIN":"TMBJH7NP5P7021875",
-         "make":"Toyota",
-         "model":"Superb"
-      },
-      {
-         "status":"unavailable",
-         "subFleet":"personal",
-         "location":"Los Angeles",
-         "licensePlate":"D-K 2317",
-         "VIN":"WF0XXGCHPNB00301",
-         "make":"Ford",
-         "model":"Fiesta"
-      },
-      {
-         "status":"available",
-         "subFleet":"company",
-         "location":"Köln / Bonn",
-         "licensePlate":"D-K 2326",
-         "VIN":"WF0PXXGCHPNB00328",
-         "make":"Ford",
-         "model":"Focus"
-      },
-      {
-         "location":"Frankfurt",
-         "licensePlate":"D-K 1124",
-         "VIN":"ACEBDF0135792468",
-         "make":"Toyota",
-         "model":"Camry"
-      },
-      {
-         "location":"Düsseldorf",
-         "licensePlate":"D-K 1286",
-         "VIN":"TMBJH7NP2P7022028",
-         "make":"Skoda",
-         "model":"Superb"
-      },
-      {
-         "location":"Hannover",
-         "licensePlate":"D-K 371",
-         "VIN":"2468024680ABCDEF",
-         "make":"Opel",
-         "model":"Corsa"
-      },
-      {
-         "location":"Hannover",
-         "licensePlate":"D-K 1182",
-         "VIN":"TMBJH7NP5P7021875",
-         "make":"Toyota",
-         "model":"Superb"
-      },
-      {
-         "location":"Los Angeles",
-         "licensePlate":"D-K 2317",
-         "VIN":"WF0XXGCHPNB00301",
-         "make":"Ford",
-         "model":"Fiesta"
-      },
-      {
-         "location":"Köln / Bonn",
-         "licensePlate":"D-K 2326",
-         "VIN":"WF0PXXGCHPNB00328",
-         "make":"Ford",
-         "model":"Focus"
-      }
-   ],
-   "data_model":{
-      "case_1":[
-         {
-            "key":"name",
-            "label":"Name",
-            "columnType":"string",
-            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-         },
-         {
-            "key":"email",
-            "label":"Email",
-            "columnType":"string",
-            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-         },
-         {
-            "key":"phone",
-            "label":"Phone",
-            "columnType":"string",
-            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-         },
-         {
-            "key":"date",
-            "label":"Date",
-            "columnType":"string",
-            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-         }
-      ],
-      "case_2":{
-         "first_name":"string",
-         "last_name":"string",
-         "salary":"int",
-         "province":"category"
-      },
-      "case_3":{
-         "first_name":"developer",
-         "last_name":"getnuvo",
-         "salary":12000,
-         "province":[
-            "CNX",
-            "HAM"
-         ]
-      }
-   }
+	"customers": [
+		{
+			"customer_code": "2345678954",
+			"customer_name": "Matthias Weber",
+			"email": "matthias@comdocks.com"
+		},
+		{
+			"customer_code": "2345678955",
+			"customer_name": "Adna Schmidt",
+			"email": "adna.schmidt@getnuvo.com"
+		},
+		{
+			"customer_code": "2345678956",
+			"customer_name": "Harald Rosenberg",
+			"email": "harald@columatch.ai"
+		}
+	],
+
+	"dropdown": [
+		{
+			"label": "849",
+			"value": "849",
+			"type": "string"
+		},
+		{
+			"label": "8349",
+			"value": "8349",
+			"type": "string"
+		},
+		{
+			"label": "438",
+			"value": "438",
+			"type": "string"
+		},
+		{
+			"label": "6464646",
+			"value": "6464646",
+			"type": "string"
+		},
+		{
+			"label": "45",
+			"value": "45",
+			"type": "string"
+		}
+	],
+	"cars": [
+	      {
+		"status":"available",
+		"subFleet":false,
+		"location":"Köln / Bonn",
+		"licensePlate":"D-K 2326",
+		"VIN":"WF0PXXGCHPNB00328",
+		"make":"Ford",
+		"model":"Focus"
+	      },
+		{
+		"status":"available",
+		"subFleet":"company",
+		"location":"Köln / Bonn",
+		"licensePlate":"D-K 2326",
+		"VIN":"WF0PXXGCHPNB00328",
+		"make":"Ford",
+		"model":"Focus"
+	      },
+	      {
+		"status":"available",
+		"subFleet":"company",
+		"location":"Köln / Bonn",
+		"licensePlate":"D-K 2326",
+		"VIN":"WF0PXXGCHPNB00328",
+		"make":"Ford",
+		"model":"Focus"
+	      },
+	      {
+		"status":"available",
+		"subFleet":"company",
+		"location":"Köln / Bonn",
+		"licensePlate":"D-K 2326",
+		"VIN":"WF0PXXGCHPNB00328",
+		"make":"Ford",
+		"model":"Focus"
+	      },
+	      {
+		"status":"available",
+		"subFleet":"company",
+		"location":"Köln / Bonn",
+		"licensePlate":"D-K 2326",
+		"VIN":"WF0PXXGCHPNB00328",
+		"make":"Ford",
+		"model":"Focus"
+	      },
+	      {
+		"status":"unavailable",
+		"subFleet":"personal",
+		"location":"Frankfurt",
+		"licensePlate":"D-K 1124",
+		"VIN":"ACEBDF0135792468",
+		"make":"Toyota",
+		"model":"Camry"
+
+	       },
+	   {
+	      "status":"available",
+	      "subFleet":"company",
+	      "location":"Hannover",
+	      "licensePlate":"D-K 1182",
+	      "VIN":"TMBJH7NP5P7021875",
+	      "make":"Toyota",
+	      "model":"Superb"
+
+	   },
+	   {
+	      "status":"unavailable",
+	      "subFleet":"personal",
+	      "location":"Los Angeles",
+	      "licensePlate":"D-K 2317",
+	      "VIN":"WF0XXGCHPNB00301",
+	      "make":"Ford",
+	      "model":"Fiesta"
+
+	   },
+	   {
+	      "status":"available",
+	      "subFleet":"company",
+	      "location":"Köln / Bonn",
+	      "licensePlate":"D-K 2326",
+	      "VIN":"WF0PXXGCHPNB00328",
+	      "make":"Ford",
+	      "model":"Focus"
+
+	   },
+	   {
+	      "status":"unavailable",
+	      "subFleet":"personal",
+	      "location":"Frankfurt",
+	      "licensePlate":"D-K 1124",
+	      "VIN":"ACEBDF0135792468",
+	      "make":"Toyota",
+	      "model":"Camry"
+
+	   },
+	   {
+	      "status":"available",
+	      "subFleet":"company",
+	      "location":"Düsseldorf",
+	      "licensePlate":"D-K 1286",
+	      "VIN":"TMBJH7NP2P7022028",
+	      "make":"Skoda",
+	      "model":"Superb"
+
+	   },
+	   {
+	      "status":"unavailable",
+	      "subFleet":"personal",
+	      "location":"Hannover",
+	      "licensePlate":"D-K 371",
+	      "VIN":"2468024680ABCDEF",
+	      "make":"Opel",
+	      "model":"Corsa"
+
+	   },
+	   {
+		"status":"available",
+		"subFleet":"company",
+		"location":"Hannover",
+		"licensePlate":"D-K 1182",
+		"VIN":"TMBJH7NP5P7021875",
+		"make":"Toyota",
+		"model":"Superb"
+
+	     },
+	     {
+		"status":"unavailable",
+		"subFleet":"personal",
+		"location":"Los Angeles",
+		"licensePlate":"D-K 2317",
+		"VIN":"WF0XXGCHPNB00301",
+		"make":"Ford",
+		"model":"Fiesta"
+
+	      },
+	      {
+		"status":"available",
+		"subFleet":"company",
+		"location":"Köln / Bonn",
+		"licensePlate":"D-K 2326",
+		"VIN":"WF0PXXGCHPNB00328",
+		"make":"Ford",
+		"model":"Focus"
+
+	      },
+	      {
+		"status":"unavailable",
+		"subFleet":"personal",
+		"location":"Frankfurt",
+		"licensePlate":"D-K 1124",
+		"VIN":"ACEBDF0135792468",
+		"make":"Toyota",
+		"model":"Camry"
+
+	       },
+		{
+	      "status":"available",
+	      "subFleet":"company",
+	      "location":"Hannover",
+	      "licensePlate":"D-K 1182",
+	      "VIN":"TMBJH7NP5P7021875",
+	      "make":"Toyota",
+	      "model":"Superb"
+
+	   },
+	   {
+	      "status":"unavailable",
+	      "subFleet":"personal",
+	      "location":"Los Angeles",
+	      "licensePlate":"D-K 2317",
+	      "VIN":"WF0XXGCHPNB00301",
+	      "make":"Ford",
+	      "model":"Fiesta"
+
+	   },
+	   {
+	      "status":"available",
+	      "subFleet":"company",
+	      "location":"Köln / Bonn",
+	      "licensePlate":"D-K 2326",
+	      "VIN":"WF0PXXGCHPNB00328",
+	      "make":"Ford",
+	      "model":"Focus"
+
+	   },
+	   {
+	      "status":"unavailable",
+	      "subFleet":"personal",
+	      "location":"Frankfurt",
+	      "licensePlate":"D-K 1124",
+	      "VIN":"ACEBDF0135792468",
+	      "make":"Toyota",
+	      "model":"Camry"
+
+	   },
+	   {
+	      "status":"available",
+	      "subFleet":"company",
+	      "location":"Düsseldorf",
+	      "licensePlate":"D-K 1286",
+	      "VIN":"TMBJH7NP2P7022028",
+	      "make":"Skoda",
+	      "model":"Superb"
+
+	   },
+	   {
+	      "status":"unavailable",
+	      "subFleet":"personal",
+	      "location":"Hannover",
+	      "licensePlate":"D-K 371",
+	      "VIN":"2468024680ABCDEF",
+	      "make":"Opel",
+	      "model":"Corsa"
+
+	   },
+	   {
+		"status":"available",
+		"subFleet":"company",
+		"location":"Hannover",
+		"licensePlate":"D-K 1182",
+		"VIN":"TMBJH7NP5P7021875",
+		"make":"Toyota",
+		"model":"Superb"
+
+	     },
+	     {
+		"status":"unavailable",
+		"subFleet":"personal",
+		"location":"Los Angeles",
+		"licensePlate":"D-K 2317",
+		"VIN":"WF0XXGCHPNB00301",
+		"make":"Ford",
+		"model":"Fiesta"
+
+	      },
+	      {
+		"status":"available",
+		"subFleet":"company",
+		"location":"Köln / Bonn",
+		"licensePlate":"D-K 2326",
+		"VIN":"WF0PXXGCHPNB00328",
+		"make":"Ford",
+		"model":"Focus"
+
+	      }
+
+	],
+	"data_model": {
+		"case_1": [
+			{
+				"key": "name",
+				"label": "Name",
+				"columnType": "string",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+			},
+			{
+				"key": "email",
+				"label": "Email",
+				"columnType": "string",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+			},
+			{
+				"key": "phone",
+				"label": "Phone",
+				"columnType": "string",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+			},
+			{
+				"key": "date",
+				"label": "Date",
+				"columnType": "string",
+				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+			}
+		],
+		"case_2": {
+			"first_name": "string",
+			"last_name": "string",
+			"salary": "int",
+			"province": "category"
+		},
+		"case_3": {
+			"first_name": "developer",
+			"last_name": "getnuvo",
+			"salary": 12000,
+			"province": [
+				"CNX",
+				"HAM"
+			]
+		}
+	}
 }
