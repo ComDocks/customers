@@ -52,20 +52,6 @@
             "Name_2": "",
             "Net_Change_LCY": 132811.71,
             "No": "K00001",
-            "Payment_Method_Code": "SEPA",
-            "Payment_Terms_Code": "NET30",
-            "Payments_LCY": 886083.44,
-            "Phone_No": "+49 (30) 65465 - 45646",
-            "Post_Code": "19288",
-            "Privacy_Blocked": false,
-            "Purchaser_Code": "",
-            "Responsibility_Center": "",
-            "SWIFT_Code": "GENODEF1DM1",
-            "Search_Name": "MUT UMWELTTECHNIK F\u00dcR BAUABFALL",
-            "Shipment_Method_Code": "",
-            "Tax_Office_Code": "13-4072",
-            "VAT_Bus_Posting_Group": "INL",
-            "Vendor_Posting_Group": "VERB"
         },
         {
             "@odata.etag": "W/\"JzE5OzEwNzc4MTYzMjE0Mzc5NDYwNjMxOzAwOyc=\"",
@@ -99,21 +85,10 @@
             "Name_2": "",
             "Net_Change_LCY": 40183.73,
             "No": "K00002",
-            "Payment_Method_Code": "SEPA",
-            "Payment_Terms_Code": "NET14",
-            "Payments_LCY": 817087.16,
-            "Phone_No": "+49 (611) 1212 - 121",
-            "Post_Code": "21031",
-            "Privacy_Blocked": false,
-            "Purchaser_Code": "",
-            "Responsibility_Center": "",
-            "SWIFT_Code": "SPKHDE2HXXX",
-            "Search_Name": "DIA PUMPENFABRIK HAMMELRATH",
-            "Shipment_Method_Code": "",
-            "Tax_Office_Code": "02-2241",
-            "VAT_Bus_Posting_Group": "INL",
-            "Vendor_Posting_Group": "VERB"
-        }]]
+        }
+    ]
+   }
+   ],
    "dropdown":[
       {
          "label":"849",
