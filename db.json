@@ -16,6 +16,25 @@
 			"email": "harald@columatch.ai"
 		}
 	],
+	
+	"crm": [
+		{
+			"company_identification_number ": "0001",
+			"Organisation": "Browsebug",
+			"Mail": "mbarham0@lycos.com",
+			"number": "+4915758190755",
+			"website": "www.guardian.co.uk",
+			"street": "84 Grim Point",
+			"city": "HH",
+			"country": "Germany",
+			"amount": "2000",
+			"department": "Sales",
+			"expenditures": "12,5",
+			"closing_date": "12-12-2021",
+			"first_name": "Mella",
+			"last_name": "Barham"
+		}
+	],
 	"dropdown": [
 		{
 			"label": "849",
