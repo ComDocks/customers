@@ -1,339 +1,718 @@
 {
-	"customers": [
-		{
-			"customer_code": "2345678954",
-			"customer_name": "Matthias Weber",
-			"email": "matthias@comdocks.com"
-		},
-		{
-			"customer_code": "2345678955",
-			"customer_name": "Adna Schmidt",
-			"email": "adna.schmidt@getnuvo.com"
-		},
-		{
-			"customer_code": "2345678956",
-			"customer_name": "Harald Rosenberg",
-			"email": "harald@columatch.ai"
-		}
-	],
-	
-	"crm": [{'company_identification_number': '0001', 'Organisation': 'Browsebug', 'Mail': 'mbarham0@lycos.com', 'number': '015758190755', 'website': 'www.guardian.co.uk', 'street': '84 Grim Point', 'city': 'HH', 'country': 'Germany', 'amount': '2000,00000', 'department': 'Sales', 'expenditures': '12,50', 'closing_date': '12-12-2021', 'first_name': 'Mella', 'last_name': 'Barham'}, {'company_identification_number': '0001', 'Organisation': 'Tekfly', 'Mail': 'kkemster1@plala.or.jp', 'number': '015758190756', 'website': 'www.google.ru', 'street': '9432 Golf View Crossing', 'city': 'Boston', 'country': 'Germany', 'amount': '2000,00000', 'department': 'HR', 'expenditures': '3600000,00', 'closing_date': '12.03.2021', 'first_name': 'Kara', 'last_name': 'Kemster'}, {'company_identification_number': '0003', 'Organisation': 'Rhynoodle', 'Mail': 'aheckner2@bandcamp.com', 'number': '015758190757', 'website': 'www.w3.org', 'street': '9 Crownhardt Crossing', 'city': 'San Francisco', 'country': 'USA', 'amount': '2000,00000', 'department': 'Marketing', 'expenditures': '4463,00', 'closing_date': '13.03.2021', 'first_name': 'Aimee', 'last_name': 'Heckner'}, {'company_identification_number': '0004', 'Organisation': 'Ntag', 'Mail': 'crobberts3@stumbleupon.com', 'number': '015758190758', 'website': 'comdocks.com', 'street': '0452 Northridge Plaza', 'city': 'Boston', 'country': 'USA', 'amount': '2500,00000', 'department': 'Dev', 'expenditures': '12,00', 'closing_date': '14.03.2021', 'first_name': 'Caralie', 'last_name': 'Robberts'}, {'company_identification_number': '0005', 'Organisation': 'Skimia', 'Mail': 'skimac302@trueelsewhere.de', 'number': '015758190759', 'website': 'www.vistaprint.com', 'street': '567 Prairieview Way', 'city': 'HH', 'country': 'Germany', 'amount': '55000,00000', 'department': 'Sales', 'expenditures': '123,72', 'closing_date': '14/04/2021', 'first_name': 'Kimberlyn', 'last_name': 'Abelov'}, {'company_identification_number': '0006', 'Organisation': 'Quatz', 'Mail': 'kfurst5@behance.net', 'number': '015758190760', 'website': 'www.fastcompany.com', 'street': '04505 Tony Drive', 'city': 'Shanghai', 'country': 'China', 'amount': '34000,00000', 'department': 'Product', 'expenditures': '1200,00', 'closing_date': '12-02-2021', 'first_name': 'Kirsti', 'last_name': 'Furst'}, {'company_identification_number': '', 'Organisation': '', 'Mail': 'mweigh6@delicious.com', 'number': '015758190761', 'website': 'www.pen.io', 'street': '0 Fremont Terrace', 'city': 'London', 'country': 'UK', 'amount': '10000,00000', 'department': 'HR', 'expenditures': '10000,00', 'closing_date': '12-02-2022', 'first_name': 'Minny', 'last_name': 'Weigh'}, {'company_identification_number': '0008', 'Organisation': '', 'Mail': 'slippett7@pcworld.com', 'number': '015758190762', 'website': 'www.time.com', 'street': '12386 Kings Point', 'city': 'Hamburg', 'country': 'Germany', 'amount': '15000,00000', 'department': 'HR', 'expenditures': '15000,00', 'closing_date': '12-02-2023', 'first_name': 'Steffane', 'last_name': 'Lippett'}, {'company_identification_number': '0009', 'Organisation': 'Youopia', 'Mail': 'aterbeek8@naver.com', 'number': '015758190763', 'website': 'www.livejournal.com', 'street': '4 Lawn Center', 'city': 'Rotterdam', 'country': 'Netherlands', 'amount': '2000,00000', 'department': 'HR', 'expenditures': '2000,00', 'closing_date': '12-02-2024', 'first_name': 'Adair', 'last_name': 'Terbeek'}, {'company_identification_number': '0010', 'Organisation': 'Quinu', 'Mail': 'abandiera9@phpbb.com', 'number': '015758190764', 'website': 'www.netscape.com', 'street': '9 Burning Wood Terrace', 'city': 'Tokyo', 'country': 'Japan', 'amount': '2500,00000', 'department': 'HR', 'expenditures': '2500,00', 'closing_date': '12-02-2025', 'first_name': 'Austin', 'last_name': 'Bandiera'}, {'company_identification_number': '0011', 'Organisation': 'Fiveclub', 'Mail': 'dcauldfielda@discovery.com', 'number': '015758190765', 'website': 'www.xing.com', 'street': '4316 Marcy Point', 'city': 'Stockholm', 'country': 'Sweden', 'amount': '55000,00000', 'department': 'HR', 'expenditures': '55000,00', 'closing_date': '12-02-2026', 'first_name': 'Demetri', 'last_name': 'Cauldfield'}, {'company_identification_number': '0012', 'Organisation': 'Snaptags', 'Mail': 'epackeb@digg.com', 'number': '015758190766', 'website': 'www.craigslist.org', 'street': '2455 2nd Hill', 'city': 'Karlsruhe', 'country': 'Germany', 'amount': '34000,00000', 'department': 'HR', 'expenditures': '34000,00', 'closing_date': '12-02-2027', 'first_name': 'Edita', 'last_name': 'Packe'}, {'company_identification_number': '0013', 'Organisation': 'Topiczoom', 'Mail': 'dalamc@posterous.com', 'number': '015758190767', 'website': 'www.nasa.gov', 'street': '4133 Derek Drive', 'city': 'Wien', 'country': 'Austria', 'amount': '1000,00000', 'department': 'HR', 'expenditures': '10000,00', 'closing_date': '12-02-2028', 'first_name': 'Dacy', 'last_name': 'Alam'}, {'company_identification_number': '0014', 'Organisation': 'Midel', 'Mail': 'jeronied@paypal.com', 'number': '0157581907686', 'website': 'www.fda.gov', 'street': '4 Park Meadow Parkway', 'city': 'Salzburg', 'country': 'Austria', 'amount': '1000,00000', 'department': 'HR', 'expenditures': '15000,00', 'closing_date': '12-02-2029', 'first_name': 'Jedediah', 'last_name': 'Eronie'}, {'company_identification_number': '0015', 'Organisation': 'Miboo', 'Mail': 'arugere@instagram.com', 'number': '0157581907587', 'website': 'www.soup.io', 'street': '134 Gina Point', 'city': 'Detroit', 'country': 'USA', 'amount': '1000,00000', 'department': 'HR', 'expenditures': '2000,00', 'closing_date': '12-02-2030', 'first_name': 'Aretha', 'last_name': 'Ruger'}, {'company_identification_number': '0016', 'Organisation': 'Reallinks', 'Mail': 'gjonssonf@stumbleupon.com', 'number': '015758190788', 'website': 'www.yellowpages.com', 'street': '8179 Oak Hill', 'city': 'Manchester', 'country': 'UK', 'amount': '1000,00000', 'department': 'HR', 'expenditures': '2500,00', 'closing_date': '12-02-2031', 'first_name': 'Ginnifer', 'last_name': 'Jonsson'}, {'company_identification_number': '0017', 'Organisation': 'Tambee', 'Mail': 'ltimoneyg@va.gov', 'number': '015758190789', 'website': 'www.over-blog.com', 'street': '2 Haas Avenue', 'city': 'B', 'country': 'Germany', 'amount': '1000,00000', 'department': 'HR', 'expenditures': '55000,00', 'closing_date': '12-02-2032', 'first_name': 'Lissie', 'last_name': 'Timoney'}, {'company_identification_number': '0018', 'Organisation': 'Browsezoom', 'Mail': 'cbambrickh@drupal.org', 'number': '015758190712', 'website': 'www.facebook.com', 'street': '9 Arapahoe Drive', 'city': 'Hamburg', 'country': 'Germany', 'amount': '2000,00000', 'department': 'Sales', 'expenditures': '12,00', 'closing_date': '12-12-2021', 'first_name': 'Chantalle', 'last_name': 'Bambrick'}, {'company_identification_number': '0019', 'Organisation': 'Mita', 'Mail': 'qkidderi@va.gov', 'number': '015758190713', 'website': 'www.seattletimes.com', 'street': '07432 Vernon Way', 'city': 'Berlin', 'country': 'Germany', 'amount': '3000,00000', 'department': 'HR', 'expenditures': '36,00', 'closing_date': '12.03.2021', 'first_name': 'Queenie', 'last_name': 'Kidder'}, {'company_identification_number': '0020', 'Organisation': 'Twitterworks', 'Mail': 'etallj@123-reg.co.uk', 'number': '0157581907541', 'website': 'www.csmonitor.com', 'street': '18 Dixon Court', 'city': 'San Francisco', 'country': 'USA', 'amount': '4000,00000', 'department': 'Marketing', 'expenditures': '123,00', 'closing_date': '13.03.2021', 'first_name': 'Eberhard', 'last_name': 'Tall'}, {'company_identification_number': '0021', 'Organisation': 'Midel', 'Mail': 'rludlamk@eepurl.com', 'number': '015758190742', 'website': 'www.foxnews.com', 'street': '8864 Laurel Alley', 'city': 'Boston', 'country': 'USA', 'amount': '5000,00000', 'department': 'Dev', 'expenditures': '12,00', 'closing_date': '14.03.2021', 'first_name': 'Rozalie', 'last_name': 'Ludlam'}, {'company_identification_number': '0022', 'Organisation': 'Gigashots', 'Mail': 'aflayl@desdev.cn', 'number': '0157581907542', 'website': 'www.lycos.com', 'street': '02 Lakewood Road', 'city': 'New York', 'country': 'USA', 'amount': '6000,00000', 'department': 'Sales', 'expenditures': '123,00', 'closing_date': '14.04.2021', 'first_name': 'Alexandre', 'last_name': 'Flay'}, {'company_identification_number': '0023', 'Organisation': 'Shufflester', 'Mail': 'bmargarsonm@salon.com', 'number': '015758190713', 'website': 'www.cam.ac.uk', 'street': '72147 Luster Road', 'city': 'Shanghai', 'country': 'China', 'amount': '7000,00000', 'department': 'HR', 'expenditures': '234,00', 'closing_date': '12-02-2021', 'first_name': 'Beverlee', 'last_name': 'Margarson'}, {'company_identification_number': '0024', 'Organisation': 'Vidoo', 'Mail': 'pousbyn@hao123.com', 'number': '015758190754', 'website': 'www.friendfeed.com', 'street': '64 Gina Parkway', 'city': 'Detroit', 'country': 'USA', 'amount': '8000,00000', 'department': 'HR', 'expenditures': '345,00', 'closing_date': '12-02-2033', 'first_name': 'Phillip', 'last_name': 'Ousby'}, {'company_identification_number': '0025', 'Organisation': 'Mudo', 'Mail': 'atresslero@about.me', 'number': '015758190719', 'website': 'www.wp.com', 'street': '270 Bartelt Pass', 'city': 'Manchester', 'country': 'UK', 'amount': '9000,00000', 'department': 'HR', 'expenditures': '456,00', 'closing_date': '12-02-2034', 'first_name': 'Alissa', 'last_name': 'Tressler'}],
-	"dropdown": [
-		{
-			"label": "849",
-			"value": "849",
-			"type": "string"
-		},
-		{
-			"label": "8349",
-			"value": "8349",
-			"type": "string"
-		},
-		{
-			"label": "438",
-			"value": "438",
-			"type": "string"
-		},
-		{
-			"label": "6464646",
-			"value": "6464646",
-			"type": "string"
-		},
-		{
-			"label": "45",
-			"value": "45",
-			"type": "string"
-		}
-	],
-	"cars": [
-	      {
-		"status":"available",
-		"subFleet":false,
-		"location":"Köln / Bonn",
-		"licensePlate":"D-K 2326",
-		"VIN":"WF0PXXGCHPNB00328",
-		"make":"Ford",
-		"model":"Focus"
-	      },
-		{
-		"status":"available",
-		"subFleet":"company",
-		"location":"Köln / Bonn",
-		"licensePlate":"D-K 2326",
-		"VIN":"WF0PXXGCHPNB00328",
-		"make":"Ford",
-		"model":"Focus"
-	      },
-	      {
-		"status":"available",
-		"subFleet":"company",
-		"location":"Köln / Bonn",
-		"licensePlate":"D-K 2326",
-		"VIN":"WF0PXXGCHPNB00328",
-		"make":"Ford",
-		"model":"Focus"
-	      },
-	      {
-		"status":"available",
-		"subFleet":"company",
-		"location":"Köln / Bonn",
-		"licensePlate":"D-K 2326",
-		"VIN":"WF0PXXGCHPNB00328",
-		"make":"Ford",
-		"model":"Focus"
-	      },
-	      {
-		"status":"available",
-		"subFleet":"company",
-		"location":"Köln / Bonn",
-		"licensePlate":"D-K 2326",
-		"VIN":"WF0PXXGCHPNB00328",
-		"make":"Ford",
-		"model":"Focus"
-	      },
-	      {
-		"status":"unavailable",
-		"subFleet":"personal",
-		"location":"Frankfurt",
-		"licensePlate":"D-K 1124",
-		"VIN":"ACEBDF0135792468",
-		"make":"Toyota",
-		"model":"Camry"
-
-	       },
-	   {
-	      "status":"available",
-	      "subFleet":"company",
-	      "location":"Hannover",
-	      "licensePlate":"D-K 1182",
-	      "VIN":"TMBJH7NP5P7021875",
-	      "make":"Toyota",
-	      "model":"Superb"
-
-	   },
-	   {
-	      "status":"unavailable",
-	      "subFleet":"personal",
-	      "location":"Los Angeles",
-	      "licensePlate":"D-K 2317",
-	      "VIN":"WF0XXGCHPNB00301",
-	      "make":"Ford",
-	      "model":"Fiesta"
-
-	   },
-	   {
-	      "status":"available",
-	      "subFleet":"company",
-	      "location":"Köln / Bonn",
-	      "licensePlate":"D-K 2326",
-	      "VIN":"WF0PXXGCHPNB00328",
-	      "make":"Ford",
-	      "model":"Focus"
-
-	   },
-	   {
-	      "status":"unavailable",
-	      "subFleet":"personal",
-	      "location":"Frankfurt",
-	      "licensePlate":"D-K 1124",
-	      "VIN":"ACEBDF0135792468",
-	      "make":"Toyota",
-	      "model":"Camry"
-
-	   },
-	   {
-	      "status":"available",
-	      "subFleet":"company",
-	      "location":"Düsseldorf",
-	      "licensePlate":"D-K 1286",
-	      "VIN":"TMBJH7NP2P7022028",
-	      "make":"Skoda",
-	      "model":"Superb"
-
-	   },
-	   {
-	      "status":"unavailable",
-	      "subFleet":"personal",
-	      "location":"Hannover",
-	      "licensePlate":"D-K 371",
-	      "VIN":"2468024680ABCDEF",
-	      "make":"Opel",
-	      "model":"Corsa"
-
-	   },
-	   {
-		"status":"available",
-		"subFleet":"company",
-		"location":"Hannover",
-		"licensePlate":"D-K 1182",
-		"VIN":"TMBJH7NP5P7021875",
-		"make":"Toyota",
-		"model":"Superb"
-
-	     },
-	     {
-		"status":"unavailable",
-		"subFleet":"personal",
-		"location":"Los Angeles",
-		"licensePlate":"D-K 2317",
-		"VIN":"WF0XXGCHPNB00301",
-		"make":"Ford",
-		"model":"Fiesta"
-
-	      },
-	      {
-		"status":"available",
-		"subFleet":"company",
-		"location":"Köln / Bonn",
-		"licensePlate":"D-K 2326",
-		"VIN":"WF0PXXGCHPNB00328",
-		"make":"Ford",
-		"model":"Focus"
-
-	      },
-	      {
-		"status":"unavailable",
-		"subFleet":"personal",
-		"location":"Frankfurt",
-		"licensePlate":"D-K 1124",
-		"VIN":"ACEBDF0135792468",
-		"make":"Toyota",
-		"model":"Camry"
-
-	       },
-		{
-	      "status":"available",
-	      "subFleet":"company",
-	      "location":"Hannover",
-	      "licensePlate":"D-K 1182",
-	      "VIN":"TMBJH7NP5P7021875",
-	      "make":"Toyota",
-	      "model":"Superb"
-
-	   },
-	   {
-	      "status":"unavailable",
-	      "subFleet":"personal",
-	      "location":"Los Angeles",
-	      "licensePlate":"D-K 2317",
-	      "VIN":"WF0XXGCHPNB00301",
-	      "make":"Ford",
-	      "model":"Fiesta"
-
-	   },
-	   {
-	      "status":"available",
-	      "subFleet":"company",
-	      "location":"Köln / Bonn",
-	      "licensePlate":"D-K 2326",
-	      "VIN":"WF0PXXGCHPNB00328",
-	      "make":"Ford",
-	      "model":"Focus"
-
-	   },
-	   {
-	      "status":"unavailable",
-	      "subFleet":"personal",
-	      "location":"Frankfurt",
-	      "licensePlate":"D-K 1124",
-	      "VIN":"ACEBDF0135792468",
-	      "make":"Toyota",
-	      "model":"Camry"
-
-	   },
-	   {
-	      "status":"available",
-	      "subFleet":"company",
-	      "location":"Düsseldorf",
-	      "licensePlate":"D-K 1286",
-	      "VIN":"TMBJH7NP2P7022028",
-	      "make":"Skoda",
-	      "model":"Superb"
-
-	   },
-	   {
-	      "status":"unavailable",
-	      "subFleet":"personal",
-	      "location":"Hannover",
-	      "licensePlate":"D-K 371",
-	      "VIN":"2468024680ABCDEF",
-	      "make":"Opel",
-	      "model":"Corsa"
-
-	   },
-	   {
-		"status":"available",
-		"subFleet":"company",
-		"location":"Hannover",
-		"licensePlate":"D-K 1182",
-		"VIN":"TMBJH7NP5P7021875",
-		"make":"Toyota",
-		"model":"Superb"
-
-	     },
-	     {
-		"status":"unavailable",
-		"subFleet":"personal",
-		"location":"Los Angeles",
-		"licensePlate":"D-K 2317",
-		"VIN":"WF0XXGCHPNB00301",
-		"make":"Ford",
-		"model":"Fiesta"
-
-	      },
-	      {
-		"status":"available",
-		"subFleet":"company",
-		"location":"Köln / Bonn",
-		"licensePlate":"D-K 2326",
-		"VIN":"WF0PXXGCHPNB00328",
-		"make":"Ford",
-		"model":"Focus"
-
-	      }
-
-	],
-	"data_model": {
-		"case_1": [
-			{
-				"key": "name",
-				"label": "Name",
-				"columnType": "string",
-				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-			},
-			{
-				"key": "email",
-				"label": "Email",
-				"columnType": "string",
-				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-			},
-			{
-				"key": "phone",
-				"label": "Phone",
-				"columnType": "string",
-				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-			},
-			{
-				"key": "date",
-				"label": "Date",
-				"columnType": "string",
-				"description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry."
-			}
-		],
-		"case_2": {
-			"first_name": "string",
-			"last_name": "string",
-			"salary": "int",
-			"province": "category"
-		},
-		"case_3": {
-			"first_name": "developer",
-			"last_name": "getnuvo",
-			"salary": 12000,
-			"province": [
-				"CNX",
-				"HAM"
-			]
-		}
-	}
+   "customers":[
+      {
+         "customer_code":"2345678954",
+         "customer_name":"Matthias Weber",
+         "email":"matthias@comdocks.com"
+      },
+      {
+         "customer_code":"2345678955",
+         "customer_name":"Adna Schmidt",
+         "email":"adna.schmidt@getnuvo.com"
+      },
+      {
+         "customer_code":"2345678956",
+         "customer_name":"Harald Rosenberg",
+         "email":"harald@columatch.ai"
+      }
+   ],
+   "crm":[
+      {
+         "company_identification_number":"0001",
+         "Organisation":"Browsebug",
+         "Mail":"mbarham0@lycos.com",
+         "number":"015758190755",
+         "website":"www.guardian.co.uk",
+         "street":"84 Grim Point",
+         "city":"HH",
+         "country":"Germany",
+         "amount":"2000,00000",
+         "department":"Sales",
+         "expenditures":"12,50",
+         "closing_date":"12-12-2021",
+         "first_name":"Mella",
+         "last_name":"Barham"
+      },
+      {
+         "company_identification_number":"0001",
+         "Organisation":"Tekfly",
+         "Mail":"kkemster1@plala.or.jp",
+         "number":"015758190756",
+         "website":"www.google.ru",
+         "street":"9432 Golf View Crossing",
+         "city":"Boston",
+         "country":"Germany",
+         "amount":"2000,00000",
+         "department":"HR",
+         "expenditures":"3600000,00",
+         "closing_date":"12.03.2021",
+         "first_name":"Kara",
+         "last_name":"Kemster"
+      },
+      {
+         "company_identification_number":"0003",
+         "Organisation":"Rhynoodle",
+         "Mail":"aheckner2@bandcamp.com",
+         "number":"015758190757",
+         "website":"www.w3.org",
+         "street":"9 Crownhardt Crossing",
+         "city":"San Francisco",
+         "country":"USA",
+         "amount":"2000,00000",
+         "department":"Marketing",
+         "expenditures":"4463,00",
+         "closing_date":"13.03.2021",
+         "first_name":"Aimee",
+         "last_name":"Heckner"
+      },
+      {
+         "company_identification_number":"0004",
+         "Organisation":"Ntag",
+         "Mail":"crobberts3@stumbleupon.com",
+         "number":"015758190758",
+         "website":"comdocks.com",
+         "street":"0452 Northridge Plaza",
+         "city":"Boston",
+         "country":"USA",
+         "amount":"2500,00000",
+         "department":"Dev",
+         "expenditures":"12,00",
+         "closing_date":"14.03.2021",
+         "first_name":"Caralie",
+         "last_name":"Robberts"
+      },
+      {
+         "company_identification_number":"0005",
+         "Organisation":"Skimia",
+         "Mail":"skimac302@trueelsewhere.de",
+         "number":"015758190759",
+         "website":"www.vistaprint.com",
+         "street":"567 Prairieview Way",
+         "city":"HH",
+         "country":"Germany",
+         "amount":"55000,00000",
+         "department":"Sales",
+         "expenditures":"123,72",
+         "closing_date":"14/04/2021",
+         "first_name":"Kimberlyn",
+         "last_name":"Abelov"
+      },
+      {
+         "company_identification_number":"0006",
+         "Organisation":"Quatz",
+         "Mail":"kfurst5@behance.net",
+         "number":"015758190760",
+         "website":"www.fastcompany.com",
+         "street":"04505 Tony Drive",
+         "city":"Shanghai",
+         "country":"China",
+         "amount":"34000,00000",
+         "department":"Product",
+         "expenditures":"1200,00",
+         "closing_date":"12-02-2021",
+         "first_name":"Kirsti",
+         "last_name":"Furst"
+      },
+      {
+         "company_identification_number":"",
+         "Organisation":"",
+         "Mail":"mweigh6@delicious.com",
+         "number":"015758190761",
+         "website":"www.pen.io",
+         "street":"0 Fremont Terrace",
+         "city":"London",
+         "country":"UK",
+         "amount":"10000,00000",
+         "department":"HR",
+         "expenditures":"10000,00",
+         "closing_date":"12-02-2022",
+         "first_name":"Minny",
+         "last_name":"Weigh"
+      },
+      {
+         "company_identification_number":"0008",
+         "Organisation":"",
+         "Mail":"slippett7@pcworld.com",
+         "number":"015758190762",
+         "website":"www.time.com",
+         "street":"12386 Kings Point",
+         "city":"Hamburg",
+         "country":"Germany",
+         "amount":"15000,00000",
+         "department":"HR",
+         "expenditures":"15000,00",
+         "closing_date":"12-02-2023",
+         "first_name":"Steffane",
+         "last_name":"Lippett"
+      },
+      {
+         "company_identification_number":"0009",
+         "Organisation":"Youopia",
+         "Mail":"aterbeek8@naver.com",
+         "number":"015758190763",
+         "website":"www.livejournal.com",
+         "street":"4 Lawn Center",
+         "city":"Rotterdam",
+         "country":"Netherlands",
+         "amount":"2000,00000",
+         "department":"HR",
+         "expenditures":"2000,00",
+         "closing_date":"12-02-2024",
+         "first_name":"Adair",
+         "last_name":"Terbeek"
+      },
+      {
+         "company_identification_number":"0010",
+         "Organisation":"Quinu",
+         "Mail":"abandiera9@phpbb.com",
+         "number":"015758190764",
+         "website":"www.netscape.com",
+         "street":"9 Burning Wood Terrace",
+         "city":"Tokyo",
+         "country":"Japan",
+         "amount":"2500,00000",
+         "department":"HR",
+         "expenditures":"2500,00",
+         "closing_date":"12-02-2025",
+         "first_name":"Austin",
+         "last_name":"Bandiera"
+      },
+      {
+         "company_identification_number":"0011",
+         "Organisation":"Fiveclub",
+         "Mail":"dcauldfielda@discovery.com",
+         "number":"015758190765",
+         "website":"www.xing.com",
+         "street":"4316 Marcy Point",
+         "city":"Stockholm",
+         "country":"Sweden",
+         "amount":"55000,00000",
+         "department":"HR",
+         "expenditures":"55000,00",
+         "closing_date":"12-02-2026",
+         "first_name":"Demetri",
+         "last_name":"Cauldfield"
+      },
+      {
+         "company_identification_number":"0012",
+         "Organisation":"Snaptags",
+         "Mail":"epackeb@digg.com",
+         "number":"015758190766",
+         "website":"www.craigslist.org",
+         "street":"2455 2nd Hill",
+         "city":"Karlsruhe",
+         "country":"Germany",
+         "amount":"34000,00000",
+         "department":"HR",
+         "expenditures":"34000,00",
+         "closing_date":"12-02-2027",
+         "first_name":"Edita",
+         "last_name":"Packe"
+      },
+      {
+         "company_identification_number":"0013",
+         "Organisation":"Topiczoom",
+         "Mail":"dalamc@posterous.com",
+         "number":"015758190767",
+         "website":"www.nasa.gov",
+         "street":"4133 Derek Drive",
+         "city":"Wien",
+         "country":"Austria",
+         "amount":"1000,00000",
+         "department":"HR",
+         "expenditures":"10000,00",
+         "closing_date":"12-02-2028",
+         "first_name":"Dacy",
+         "last_name":"Alam"
+      },
+      {
+         "company_identification_number":"0014",
+         "Organisation":"Midel",
+         "Mail":"jeronied@paypal.com",
+         "number":"0157581907686",
+         "website":"www.fda.gov",
+         "street":"4 Park Meadow Parkway",
+         "city":"Salzburg",
+         "country":"Austria",
+         "amount":"1000,00000",
+         "department":"HR",
+         "expenditures":"15000,00",
+         "closing_date":"12-02-2029",
+         "first_name":"Jedediah",
+         "last_name":"Eronie"
+      },
+      {
+         "company_identification_number":"0015",
+         "Organisation":"Miboo",
+         "Mail":"arugere@instagram.com",
+         "number":"0157581907587",
+         "website":"www.soup.io",
+         "street":"134 Gina Point",
+         "city":"Detroit",
+         "country":"USA",
+         "amount":"1000,00000",
+         "department":"HR",
+         "expenditures":"2000,00",
+         "closing_date":"12-02-2030",
+         "first_name":"Aretha",
+         "last_name":"Ruger"
+      },
+      {
+         "company_identification_number":"0016",
+         "Organisation":"Reallinks",
+         "Mail":"gjonssonf@stumbleupon.com",
+         "number":"015758190788",
+         "website":"www.yellowpages.com",
+         "street":"8179 Oak Hill",
+         "city":"Manchester",
+         "country":"UK",
+         "amount":"1000,00000",
+         "department":"HR",
+         "expenditures":"2500,00",
+         "closing_date":"12-02-2031",
+         "first_name":"Ginnifer",
+         "last_name":"Jonsson"
+      },
+      {
+         "company_identification_number":"0017",
+         "Organisation":"Tambee",
+         "Mail":"ltimoneyg@va.gov",
+         "number":"015758190789",
+         "website":"www.over-blog.com",
+         "street":"2 Haas Avenue",
+         "city":"B",
+         "country":"Germany",
+         "amount":"1000,00000",
+         "department":"HR",
+         "expenditures":"55000,00",
+         "closing_date":"12-02-2032",
+         "first_name":"Lissie",
+         "last_name":"Timoney"
+      },
+      {
+         "company_identification_number":"0018",
+         "Organisation":"Browsezoom",
+         "Mail":"cbambrickh@drupal.org",
+         "number":"015758190712",
+         "website":"www.facebook.com",
+         "street":"9 Arapahoe Drive",
+         "city":"Hamburg",
+         "country":"Germany",
+         "amount":"2000,00000",
+         "department":"Sales",
+         "expenditures":"12,00",
+         "closing_date":"12-12-2021",
+         "first_name":"Chantalle",
+         "last_name":"Bambrick"
+      },
+      {
+         "company_identification_number":"0019",
+         "Organisation":"Mita",
+         "Mail":"qkidderi@va.gov",
+         "number":"015758190713",
+         "website":"www.seattletimes.com",
+         "street":"07432 Vernon Way",
+         "city":"Berlin",
+         "country":"Germany",
+         "amount":"3000,00000",
+         "department":"HR",
+         "expenditures":"36,00",
+         "closing_date":"12.03.2021",
+         "first_name":"Queenie",
+         "last_name":"Kidder"
+      },
+      {
+         "company_identification_number":"0020",
+         "Organisation":"Twitterworks",
+         "Mail":"etallj@123-reg.co.uk",
+         "number":"0157581907541",
+         "website":"www.csmonitor.com",
+         "street":"18 Dixon Court",
+         "city":"San Francisco",
+         "country":"USA",
+         "amount":"4000,00000",
+         "department":"Marketing",
+         "expenditures":"123,00",
+         "closing_date":"13.03.2021",
+         "first_name":"Eberhard",
+         "last_name":"Tall"
+      },
+      {
+         "company_identification_number":"0021",
+         "Organisation":"Midel",
+         "Mail":"rludlamk@eepurl.com",
+         "number":"015758190742",
+         "website":"www.foxnews.com",
+         "street":"8864 Laurel Alley",
+         "city":"Boston",
+         "country":"USA",
+         "amount":"5000,00000",
+         "department":"Dev",
+         "expenditures":"12,00",
+         "closing_date":"14.03.2021",
+         "first_name":"Rozalie",
+         "last_name":"Ludlam"
+      },
+      {
+         "company_identification_number":"0022",
+         "Organisation":"Gigashots",
+         "Mail":"aflayl@desdev.cn",
+         "number":"0157581907542",
+         "website":"www.lycos.com",
+         "street":"02 Lakewood Road",
+         "city":"New York",
+         "country":"USA",
+         "amount":"6000,00000",
+         "department":"Sales",
+         "expenditures":"123,00",
+         "closing_date":"14.04.2021",
+         "first_name":"Alexandre",
+         "last_name":"Flay"
+      },
+      {
+         "company_identification_number":"0023",
+         "Organisation":"Shufflester",
+         "Mail":"bmargarsonm@salon.com",
+         "number":"015758190713",
+         "website":"www.cam.ac.uk",
+         "street":"72147 Luster Road",
+         "city":"Shanghai",
+         "country":"China",
+         "amount":"7000,00000",
+         "department":"HR",
+         "expenditures":"234,00",
+         "closing_date":"12-02-2021",
+         "first_name":"Beverlee",
+         "last_name":"Margarson"
+      },
+      {
+         "company_identification_number":"0024",
+         "Organisation":"Vidoo",
+         "Mail":"pousbyn@hao123.com",
+         "number":"015758190754",
+         "website":"www.friendfeed.com",
+         "street":"64 Gina Parkway",
+         "city":"Detroit",
+         "country":"USA",
+         "amount":"8000,00000",
+         "department":"HR",
+         "expenditures":"345,00",
+         "closing_date":"12-02-2033",
+         "first_name":"Phillip",
+         "last_name":"Ousby"
+      },
+      {
+         "company_identification_number":"0025",
+         "Organisation":"Mudo",
+         "Mail":"atresslero@about.me",
+         "number":"015758190719",
+         "website":"www.wp.com",
+         "street":"270 Bartelt Pass",
+         "city":"Manchester",
+         "country":"UK",
+         "amount":"9000,00000",
+         "department":"HR",
+         "expenditures":"456,00",
+         "closing_date":"12-02-2034",
+         "first_name":"Alissa",
+         "last_name":"Tressler"
+      }
+   ],
+   "dropdown":[
+      {
+         "label":"849",
+         "value":"849",
+         "type":"string"
+      },
+      {
+         "label":"8349",
+         "value":"8349",
+         "type":"string"
+      },
+      {
+         "label":"438",
+         "value":"438",
+         "type":"string"
+      },
+      {
+         "label":"6464646",
+         "value":"6464646",
+         "type":"string"
+      },
+      {
+         "label":"45",
+         "value":"45",
+         "type":"string"
+      }
+   ],
+   "cars":[
+      {
+         "status":"available",
+         "subFleet":false,
+         "location":"Köln / Bonn",
+         "licensePlate":"D-K 2326",
+         "VIN":"WF0PXXGCHPNB00328",
+         "make":"Ford",
+         "model":"Focus"
+      },
+      {
+         "status":"available",
+         "subFleet":"company",
+         "location":"Köln / Bonn",
+         "licensePlate":"D-K 2326",
+         "VIN":"WF0PXXGCHPNB00328",
+         "make":"Ford",
+         "model":"Focus"
+      },
+      {
+         "status":"available",
+         "subFleet":"company",
+         "location":"Köln / Bonn",
+         "licensePlate":"D-K 2326",
+         "VIN":"WF0PXXGCHPNB00328",
+         "make":"Ford",
+         "model":"Focus"
+      },
+      {
+         "status":"available",
+         "subFleet":"company",
+         "location":"Köln / Bonn",
+         "licensePlate":"D-K 2326",
+         "VIN":"WF0PXXGCHPNB00328",
+         "make":"Ford",
+         "model":"Focus"
+      },
+      {
+         "status":"available",
+         "subFleet":"company",
+         "location":"Köln / Bonn",
+         "licensePlate":"D-K 2326",
+         "VIN":"WF0PXXGCHPNB00328",
+         "make":"Ford",
+         "model":"Focus"
+      },
+      {
+         "status":"unavailable",
+         "subFleet":"personal",
+         "location":"Frankfurt",
+         "licensePlate":"D-K 1124",
+         "VIN":"ACEBDF0135792468",
+         "make":"Toyota",
+         "model":"Camry"
+      },
+      {
+         "status":"available",
+         "subFleet":"company",
+         "location":"Hannover",
+         "licensePlate":"D-K 1182",
+         "VIN":"TMBJH7NP5P7021875",
+         "make":"Toyota",
+         "model":"Superb"
+      },
+      {
+         "status":"unavailable",
+         "subFleet":"personal",
+         "location":"Los Angeles",
+         "licensePlate":"D-K 2317",
+         "VIN":"WF0XXGCHPNB00301",
+         "make":"Ford",
+         "model":"Fiesta"
+      },
+      {
+         "status":"available",
+         "subFleet":"company",
+         "location":"Köln / Bonn",
+         "licensePlate":"D-K 2326",
+         "VIN":"WF0PXXGCHPNB00328",
+         "make":"Ford",
+         "model":"Focus"
+      },
+      {
+         "status":"unavailable",
+         "subFleet":"personal",
+         "location":"Frankfurt",
+         "licensePlate":"D-K 1124",
+         "VIN":"ACEBDF0135792468",
+         "make":"Toyota",
+         "model":"Camry"
+      },
+      {
+         "status":"available",
+         "subFleet":"company",
+         "location":"Düsseldorf",
+         "licensePlate":"D-K 1286",
+         "VIN":"TMBJH7NP2P7022028",
+         "make":"Skoda",
+         "model":"Superb"
+      },
+      {
+         "status":"unavailable",
+         "subFleet":"personal",
+         "location":"Hannover",
+         "licensePlate":"D-K 371",
+         "VIN":"2468024680ABCDEF",
+         "make":"Opel",
+         "model":"Corsa"
+      },
+      {
+         "status":"available",
+         "subFleet":"company",
+         "location":"Hannover",
+         "licensePlate":"D-K 1182",
+         "VIN":"TMBJH7NP5P7021875",
+         "make":"Toyota",
+         "model":"Superb"
+      },
+      {
+         "status":"unavailable",
+         "subFleet":"personal",
+         "location":"Los Angeles",
+         "licensePlate":"D-K 2317",
+         "VIN":"WF0XXGCHPNB00301",
+         "make":"Ford",
+         "model":"Fiesta"
+      },
+      {
+         "status":"available",
+         "subFleet":"company",
+         "location":"Köln / Bonn",
+         "licensePlate":"D-K 2326",
+         "VIN":"WF0PXXGCHPNB00328",
+         "make":"Ford",
+         "model":"Focus"
+      },
+      {
+         "status":"unavailable",
+         "subFleet":"personal",
+         "location":"Frankfurt",
+         "licensePlate":"D-K 1124",
+         "VIN":"ACEBDF0135792468",
+         "make":"Toyota",
+         "model":"Camry"
+      },
+      {
+         "status":"available",
+         "subFleet":"company",
+         "location":"Hannover",
+         "licensePlate":"D-K 1182",
+         "VIN":"TMBJH7NP5P7021875",
+         "make":"Toyota",
+         "model":"Superb"
+      },
+      {
+         "status":"unavailable",
+         "subFleet":"personal",
+         "location":"Los Angeles",
+         "licensePlate":"D-K 2317",
+         "VIN":"WF0XXGCHPNB00301",
+         "make":"Ford",
+         "model":"Fiesta"
+      },
+      {
+         "status":"available",
+         "subFleet":"company",
+         "location":"Köln / Bonn",
+         "licensePlate":"D-K 2326",
+         "VIN":"WF0PXXGCHPNB00328",
+         "make":"Ford",
+         "model":"Focus"
+      },
+      {
+         "status":"unavailable",
+         "subFleet":"personal",
+         "location":"Frankfurt",
+         "licensePlate":"D-K 1124",
+         "VIN":"ACEBDF0135792468",
+         "make":"Toyota",
+         "model":"Camry"
+      },
+      {
+         "status":"available",
+         "subFleet":"company",
+         "location":"Düsseldorf",
+         "licensePlate":"D-K 1286",
+         "VIN":"TMBJH7NP2P7022028",
+         "make":"Skoda",
+         "model":"Superb"
+      },
+      {
+         "status":"unavailable",
+         "subFleet":"personal",
+         "location":"Hannover",
+         "licensePlate":"D-K 371",
+         "VIN":"2468024680ABCDEF",
+         "make":"Opel",
+         "model":"Corsa"
+      },
+      {
+         "status":"available",
+         "subFleet":"company",
+         "location":"Hannover",
+         "licensePlate":"D-K 1182",
+         "VIN":"TMBJH7NP5P7021875",
+         "make":"Toyota",
+         "model":"Superb"
+      },
+      {
+         "status":"unavailable",
+         "subFleet":"personal",
+         "location":"Los Angeles",
+         "licensePlate":"D-K 2317",
+         "VIN":"WF0XXGCHPNB00301",
+         "make":"Ford",
+         "model":"Fiesta"
+      },
+      {
+         "status":"available",
+         "subFleet":"company",
+         "location":"Köln / Bonn",
+         "licensePlate":"D-K 2326",
+         "VIN":"WF0PXXGCHPNB00328",
+         "make":"Ford",
+         "model":"Focus"
+      }
+   ],
+   "data_model":{
+      "case_1":[
+         {
+            "key":"name",
+            "label":"Name",
+            "columnType":"string",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+         },
+         {
+            "key":"email",
+            "label":"Email",
+            "columnType":"string",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+         },
+         {
+            "key":"phone",
+            "label":"Phone",
+            "columnType":"string",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+         },
+         {
+            "key":"date",
+            "label":"Date",
+            "columnType":"string",
+            "description":"Lorem Ipsum is simply dummy text of the printing and typesetting industry."
+         }
+      ],
+      "case_2":{
+         "first_name":"string",
+         "last_name":"string",
+         "salary":"int",
+         "province":"category"
+      },
+      "case_3":{
+         "first_name":"developer",
+         "last_name":"getnuvo",
+         "salary":12000,
+         "province":[
+            "CNX",
+            "HAM"
+         ]
+      }
+   }
 }
