@@ -20,26 +20,31 @@
 	"dropdown": [
 		{
 			"label": "Farm 1",
+			"alternativeMatches": ["849"],
 			"value": "849",
 			"type": "string"
 		},
 		{
 			"label": "Farm 2",
+			"alternativeMatches": ["8349"],
 			"value": "8349",
 			"type": "string"
 		},
 		{
 			"label": "Farm 3",
+			"alternativeMatches": ["438"],
 			"value": "438",
 			"type": "string"
 		},
 		{
 			"label": "Farm 4",
+			"alternativeMatches": ["6464646"],
 			"value": "6464646",
 			"type": "string"
 		},
 		{
 			"label": "Farm 5",
+			"alternativeMatches": ["45"],
 			"value": "45",
 			"type": "string"
 		}
