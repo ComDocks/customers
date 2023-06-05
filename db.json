@@ -19,27 +19,27 @@
 
 	"dropdown": [
 		{
-			"label": "849",
+			"label": "Farm 1",
 			"value": "849",
 			"type": "string"
 		},
 		{
-			"label": "8349",
+			"label": "Farm 2",
 			"value": "8349",
 			"type": "string"
 		},
 		{
-			"label": "438",
+			"label": "Farm 3",
 			"value": "438",
 			"type": "string"
 		},
 		{
-			"label": "6464646",
+			"label": "Farm 4",
 			"value": "6464646",
 			"type": "string"
 		},
 		{
-			"label": "45",
+			"label": "Farm 5",
 			"value": "45",
 			"type": "string"
 		}
